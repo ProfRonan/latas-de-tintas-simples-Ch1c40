@@ -9,6 +9,7 @@ latas = litros / 18
 
 qtd_de_latas = math.ceil(latas)
 valor_total = qtd_de_latas*80
+
 # As duas variáveis qtd_de_latas e valor_total devem guardar a resposta do problema
 # Troque os zeros pelos valores corretos.
 qtd_de_latas = qtd_de_latas
